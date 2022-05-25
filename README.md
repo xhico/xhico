@@ -1,24 +1,10 @@
-
-```                                                                                                               
-
-                                                                                                                               
- #    #                         #    #                         #                          ####                           ####  
-  #  #                          #    #                         #                         #    #                         #    # 
-   ##                           ######                         #                         #                              #    # 
-   ##                           #    #                         #                         #                              #    # 
-  #  #                          #    #                         #                         #    #                         #    # 
- #    #                         #    #                         #                          ####                           ####  
-                                                                                                                               
-
-```
-
-## Who
+## :adult: Who
 Hello!
-I'm Francisco 'xhico' Filipe, from Portugal.
+I'm Francisco 'xhico' Filipe, from :portugal:.
 
 
 ##
-### :hammer_and_wrench: Web Languages
+### :heavy_check_mark: Web Languages
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -26,13 +12,13 @@ I'm Francisco 'xhico' Filipe, from Portugal.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Hardware
+### :heavy_check_mark: Hardware
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" **alt="RaspberryPi" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Python Tools
+### :heavy_check_mark: Python Tools
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>&nbsp;
@@ -41,7 +27,7 @@ I'm Francisco 'xhico' Filipe, from Portugal.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Misc
+### :heavy_check_mark: Misc
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -54,3 +40,5 @@ I'm Francisco 'xhico' Filipe, from Portugal.
 
 ##
 **Free Software, Hell Yeah!**
+</br>
+*If you can't tell, I just found out that we can put emojis on readmes*
