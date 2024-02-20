@@ -1,5 +1,5 @@
 ## About Me
-Hello! I'm Francisco 'xhico' Filipe from 🇵🇹 Portugal.
+Hello! I'm Francisco 'xhico' Filipe from 🇵🇹.
 
 ## Languages & Tools
 
@@ -30,7 +30,5 @@ Hello! I'm Francisco 'xhico' Filipe from 🇵🇹 Portugal.
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ---
-
-**Free Software, Hell Yeah!**
 
 *If you can't tell, I just found out that we can put emojis in READMEs.*
