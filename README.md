@@ -5,7 +5,7 @@ distributed systems, data extraction pipelines, and scalable infrastructure.
 Currently building and maintaining large-scale crawling and processing systems
 at a UK SaaS company.
 
-📍 Portugal &nbsp;|&nbsp; 🌐 [linkedin.com/in/francisco-filipe](https://linkedin.com/in/francisco-filipe)
+📍 Portugal &nbsp;|&nbsp; [linkedin.com](https://linkedin.com/in/francisco-filipe) &nbsp;|&nbsp; [xhico.github.io](https://xhico.github.io/)
 
 ---
 
