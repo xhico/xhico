@@ -18,11 +18,12 @@
 
 ### 🧭 About me
 
-I'm a **Python backend engineer** with **5+ years of fully remote experience**, building and scaling distributed systems at a UK-based SaaS. I lead re-architectures, design data pipelines, and own production infrastructure end-to-end — from architecture decisions to 2 a.m. pager rotations.
+I'm a **Python backend engineer** with **10+ years of programming experience** and **5+ years building production-grade backend platforms** — all in fully remote environments. I lead re-architectures, design data pipelines, and own production infrastructure end-to-end — from architecture decisions to 2 a.m. pager rotations.
 
 - 🛠️ Currently scaling crawling and data-processing platforms from **100K → 100M+ requests**
 - 🌍 Based in **Caldas da Rainha, Portugal** &nbsp;·&nbsp; WET/WEST (UTC±0/+1)
-- 💼 **Open to fully remote roles** — full-time or B2B contractor
+- 💼 **Open to remote roles across Europe and the UK** — full-time or B2B
+- 🛡️ Focus on **scalability, reliability, automation, and high-volume data processing**
 - 🗣️ Languages: **Portuguese** (native) &nbsp;·&nbsp; **English** (C2)
 - 📬 Best way to reach me: [**xhico.github.io**](https://xhico.github.io) or [francgf@gmail.com](mailto:francgf@gmail.com)
 
@@ -43,11 +44,9 @@ I'm a **Python backend engineer** with **5+ years of fully remote experience**, 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 **Web**
 
@@ -65,5 +64,5 @@ I'm a **Python backend engineer** with **5+ years of fully remote experience**, 
 ---
 
 <p align="center">
-  <i>“Comfortable owning systems end-to-end — from architecture to deployment.”</i>
+  <i>“Comfortable owning systems end-to-end — from architecture to deployment, monitoring, and production troubleshooting.”</i>
 </p>
