@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Francisco 👋</h1>
 
 <p align="center">
-  <b>Senior Backend Engineer</b> &nbsp;·&nbsp; Python &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Data Platforms
+  <b>Senior Backend Engineer</b> &nbsp;·&nbsp; Python &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; APIs
 </p>
 
 <p align="center">
@@ -20,9 +20,10 @@
 
 I'm a **Python backend engineer** with **10+ years of programming experience** and **5+ years building production-grade backend platforms** — all in fully remote environments. I lead re-architectures, design data pipelines, and own production infrastructure end-to-end — from architecture decisions to 2 a.m. pager rotations.
 
-- 🛠️ Currently scaling crawling and data-processing platforms from **100K → 100M+ requests**
+- 🛠️ Currently building backend services for a **digital supply chain traceability** platform at **Starfish** (FastAPI, async Python, MongoDB, GCP)
+- ⚡ Previously scaled crawling and data-processing platforms from **100K → 100M+ requests** at **Little Forest**
 - 🌍 Based in **Caldas da Rainha, Portugal** &nbsp;·&nbsp; WET/WEST (UTC±0/+1)
-- 💼 **Open to remote roles across Europe and the UK** — full-time or B2B
+- 💼 **Open to remote roles across Europe, the UK, and the US** — full-time or B2B
 - 🛡️ Focus on **scalability, reliability, automation, and high-volume data processing**
 - 🗣️ Languages: **Portuguese** (native) &nbsp;·&nbsp; **English** (C2)
 - 📬 Best way to reach me: [**xhico.github.io**](https://xhico.github.io) or [francgf@gmail.com](mailto:francgf@gmail.com)
@@ -37,6 +38,7 @@ I'm a **Python backend engineer** with **10+ years of programming experience** a
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -45,6 +47,7 @@ I'm a **Python backend engineer** with **10+ years of programming experience** a
 **Infrastructure & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
