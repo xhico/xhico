@@ -20,7 +20,7 @@
 
 I'm a **Python backend engineer** with **10+ years of programming experience** and **5+ years building production-grade backend platforms** — all in fully remote environments. I lead re-architectures, design data pipelines, and own production infrastructure end-to-end — from architecture decisions to 2 a.m. pager rotations.
 
-- 🛠️ Currently building backend services for a **digital supply chain traceability** platform at **Starfish** (FastAPI, async Python, MongoDB, GCP)
+- 🛠️ Currently building backend services for a **digital supply chain traceability** platform (FastAPI, async Python, MongoDB, GCP)
 - ⚡ Previously scaled crawling and data-processing platforms from **100K → 100M+ requests** at **Little Forest**
 - 🌍 Based in **Caldas da Rainha, Portugal** &nbsp;·&nbsp; WET/WEST (UTC±0/+1)
 - 💼 **Open to remote roles across Europe, the UK, and the US** — full-time or B2B
